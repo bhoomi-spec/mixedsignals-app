@@ -4,7 +4,7 @@ plotly==5.24.1
 pandas==2.2.3
 numpy==2.1.1
 scikit-learn==1.5.2
-torch==2.5.0+cpu
-torchaudio==2.5.0+cpu
-torchvision==0.20.0+cpu
+torch==2.5.0
+torchaudio==2.5.0
+torchvision==0.20.0
 transformers==4.46.3
